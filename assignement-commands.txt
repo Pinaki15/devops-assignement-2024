@@ -1,0 +1,19 @@
+commands for assignment1
+
+created folder with mkdir proect1
+Added code.txt with nano code.txt
+      log.txt with nano log.txt
+      output.txt with nano output.txt
+Staged code.txt and output.txt with following commands-
+git add code.txt
+git add output.txt
+
+committed using following command-
+git commit -m "commiting code for first assignemnt"
+
+pushed to remote repo using
+1. first configured remote repo using
+  git remote add origin <https link for remote repo>
+2. Created token to push changes
+3. pushed staged files to remote repo using
+   git push origin master

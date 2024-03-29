@@ -1,0 +1,1 @@
+creating output.txt and adding it to project folder
